@@ -1,4 +1,4 @@
-![building](https://github.com/user-attachments/assets/cecfa623-7763-4e3b-a7d7-9e20680f73c4)
+
 
 # Urban Building Structure
 ## Introduction

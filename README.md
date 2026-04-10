@@ -21,13 +21,13 @@ What patterns can be identified in building usage (residential, commercial, indu
 How can urban building data be leveraged to improve planning, disaster preparedness, and sustainable development?
 
 ### Methodology
-**Data Collection:** Gathered building data from sources such as OpenStreetMap and city planning datasets.
+**Data Collection:** Gathered building data from secondary sources such as city planning datasets from kaggle.com
 
 **Data Cleaning & Processing:** using excel, power query, power BI, Standardized attributes (height, area, usage type) for consistency.
 
 **Analysis:** Applied statistical, regression and pivot analysis to evaluate density, spacing, quality of construction and structural relationships.
 
-**Visualization:** Created tables and charts to illustrate building patterns, landuse and structural relationships
+**Visualization:** Created tables and charts to illustrate building patterns, landuse types, urban infrastructure analysis, building classification, zoning optimization and structural relationships
 
 **Interpretation:** Derived insights on how structures influence urban planning and sustainability.
 

@@ -2,7 +2,7 @@
 
 # Urban Building Structure
 ## Introduction
-Urbanization has transformed cities into complex ecosystems where buildings play a central role in shaping human activity, infrastructure, and sustainability. This project explores the structural organization of urban buildings, aiming to provide insights into spatial distribution, density, and architectural patterns that influence city planning and development.
+Urban development is shaped by the interaction of building characteristics, zoning regulations, and land use patterns. Understanding these relationships is crucial for planners, architects, and policymakers to make informed decisions about infrastructure, sustainability, and resource allocation. This project explores the Urban Building Structure Dataset to analyze how building density, footprint area, construction materials, and heights vary across different contexts.
 
 ### Objectives
 To analyze the structural layout of buildings in urban environments.

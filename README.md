@@ -1,6 +1,6 @@
-
-
 # Urban Building Structure
+
+![Image](https://github.com/user-attachments/assets/a82437f4-22ca-4a3a-8bfb-e849c550dd6b)
 ## Introduction
 Urban development is shaped by the interaction of building characteristics, zoning regulations, and land use patterns. Understanding these relationships is crucial for planners, architects, and policymakers to make informed decisions about infrastructure, sustainability, and resource allocation. This project explores the Urban Building Structure Dataset to analyze how building density, footprint area, construction materials, and heights vary across different contexts.
 
